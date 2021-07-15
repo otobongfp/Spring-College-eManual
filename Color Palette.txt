@@ -1,0 +1,11 @@
+AVOCADO
+#93BB43 -Lemon
+#cfd484 - Beige
+#9a7922 - Brown
+
+
+LAVENDER
+#542881 - Main
+#611635 - Medium
+#fe8ed0 - Pink
+#df439e - Dark Pink
