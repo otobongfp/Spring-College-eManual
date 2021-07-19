@@ -6,6 +6,10 @@ body{
     background-image: linear-gradient(#df439e8c, #55288160);
 }
 
+h5{
+    font-size: 16px;
+}
+
 .mynavbar{
     background-color: #542881;
     
@@ -15,7 +19,7 @@ body{
     padding: 0.25rem;
     background-color: #fff;
     border: 1px solid #dee2e6;
-    border-radius: 0.25rem;
+    border-radius: 5rem;
     max-width: 60%;
     height: auto;
 }
@@ -24,6 +28,7 @@ body{
     padding-top: 10px ;
     padding-bottom: 10px;
     font-family: Arial, Helvetica, sans-serif ;
+    font-size:20px;
 }
 
 .align{

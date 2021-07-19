@@ -13,8 +13,13 @@ body{
     padding: 0 2%;
 }
 
+h1{
+    font-size:20px;
+}
+
+
 header{
-    background-color: rgb(133, 4, 219);
+    background-color: rgb(240, 238, 238);
     padding: 20px 0;
 }
 
@@ -94,7 +99,7 @@ header nav li a:hover{
 
 button{
     color: white;
-    background-color: rgb(133, 4, 219);
+    background-color: rgb(21, 20, 21);
     border-color: rgba(0, 0, 0, 0) ;
     padding: 0.5rem 1rem;
     font-size: 1.25rem;
@@ -110,7 +115,7 @@ button{
 }
 
 footer{
-    background-color:  rgb(133, 4, 219);
+    background-color:  rgb(21, 20, 21);
 }
 
 .footertxt{

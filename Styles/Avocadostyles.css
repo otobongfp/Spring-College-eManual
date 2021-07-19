@@ -3,7 +3,11 @@ body{
     line-height: 1.15;
     -webkit-text-size-adjust: 100%;
     -webkit-tap-highlight-color: #9a7922;
-    background-image:linear-gradient(#9a78225e,#93bb4373);
+    background-image: linear-gradient( #93bb436c, #9a782279) ;
+}
+
+h5{
+    font-size: 16px;
 }
 
 .mynavbar{
@@ -15,7 +19,7 @@ body{
   padding: 0.25rem;
   background-color: #fff;
   border: 1px solid #dee2e6;
-  border-radius: 0.25rem;
+  border-radius: 5rem;
   max-width: 60%;
   height: auto;
 }
@@ -24,7 +28,7 @@ body{
     padding-top: 10px ;
     padding-bottom: 10px;
     font-family: Arial, Helvetica, sans-serif ;
-    font-size: 30px;
+    font-size: 20px;
 }
 
 .align{
